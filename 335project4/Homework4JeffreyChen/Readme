@@ -1,0 +1,14 @@
+Jeffrey Chen
+CSCI 335 PROJECT 4
+
+1.almost parts of my project have been finished
+part 3 of my project is not fully finished/debugged
+
+2. I had trouble for a while when using find() on a disjoint set would give me segmentation faults for some reason.
+
+3. Make all to compile use:
+./CreateGraphandTest Graph1.txt AdjacencyQueries1.txt
+./CreateGraphandTest Graph2.txt AdjacencyQueries2.txt
+./Findpaths Graph1.txt 1
+./Findpaths Graph2.txt 1
+./Test_random_graph #
